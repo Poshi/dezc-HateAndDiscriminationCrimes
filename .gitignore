@@ -1,3 +1,11 @@
+# Credentials
+my_creds.json
+
+# Terraform
+.terraform/
+*.hcl
+*.tfstate*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
